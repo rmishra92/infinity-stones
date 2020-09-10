@@ -1,1 +1,2 @@
 # infinity-stones
+soul stone
